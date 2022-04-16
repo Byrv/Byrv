@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Byrv
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on aNYpROJECTS
 
 <!---
 Byrv/Byrv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
